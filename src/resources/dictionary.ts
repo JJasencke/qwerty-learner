@@ -3357,7 +3357,7 @@ const childrenEnglish: DictionaryResource[] = [
 // 编程字典
 const programming: DictionaryResource[] = [
     {
-    "id": "cet6",
+    "id": "csenglish",
     "name": "CS专业英语",
     "description": "专业英语词汇",
     "category": "英语学习",
